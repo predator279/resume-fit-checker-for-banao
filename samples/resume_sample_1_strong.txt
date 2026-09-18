@@ -1,0 +1,28 @@
+Alex Morgan
+Senior Backend Engineer
+Email: alex.morgan@example.com | Phone: +1-555-0192 | GitHub: github.com/alexmorgan-dev
+
+Summary:
+Results-driven Senior Software Engineer with 6 years of experience architecting high-performance backend systems, REST APIs, and microservices in Python. Expert in PostgreSQL optimization, Docker containerization, and AWS cloud solutions.
+
+Work Experience:
+Senior Backend Engineer | DataCloud Inc. | 2021 – 2025
+- Architected and deployed microservices using Python and FastAPI handling 15k requests per second.
+- Reduced PostgreSQL query latencies by 42% through indexing, partitioning, and Redis caching layers.
+- Led AWS infrastructure migration using Docker and Kubernetes (EKS), integrating automated CI/CD via GitHub Actions.
+- Mentored 4 junior engineers and instituted TDD practices across backend teams.
+
+Backend Software Engineer | NexaTech Solutions | 2019 – 2021
+- Developed scalable RESTful APIs with Python, FastAPI, and Flask backed by PostgreSQL and Redis.
+- Implemented asynchronous worker queues with Celery and Redis for distributed background processing.
+- Containerized microservices with Docker and deployed to AWS ECS and S3.
+
+Technical Skills:
+- Languages & Frameworks: Python, FastAPI, Flask, SQL, Bash
+- Databases & Caching: PostgreSQL, Redis, DynamoDB
+- Cloud & DevOps: AWS (EC2, ECS, Lambda, S3), Docker, Kubernetes, CI/CD, Git
+- Methodologies: Microservices, System Design, REST APIs, TDD, Agile
+
+Education:
+Bachelor of Technology (B.Tech) in Computer Science & Engineering
+Apex Institute of Technology, 2015 – 2019 (GPA: 3.8/4.0)

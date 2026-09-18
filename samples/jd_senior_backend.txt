@@ -1,0 +1,15 @@
+Position: Senior Python Backend Engineer
+Company: CloudScale Technologies
+Location: Remote / Hybrid
+
+About the Role:
+We are seeking an experienced Senior Python Backend Engineer to lead the design and scaling of our microservices infrastructure. You will work on distributed systems, REST/GraphQL APIs, and high-throughput data processing pipelines.
+
+Requirements:
+- 5+ years of professional backend software engineering experience.
+- Strong proficiency in Python, FastAPI, and asynchronous programming.
+- Hands-on expertise with PostgreSQL, Redis, and database query optimization.
+- Proven experience with Docker, Kubernetes, and AWS cloud deployments (ECS, Lambda, S3).
+- Solid grasp of CI/CD pipelines, Git, and automated testing (TDD).
+- Minimum Education: Bachelor's degree in Computer Science, Engineering, or a related STEM field.
+- Seniority: Senior Software Engineer / Technical Lead.

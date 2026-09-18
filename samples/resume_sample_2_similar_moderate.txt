@@ -1,0 +1,28 @@
+Jordan Lee
+Backend Software Engineer
+Email: jordan.lee@example.com | Location: Austin, TX | LinkedIn: linkedin.com/in/jordanlee-dev
+
+Professional Summary:
+Backend Developer with 4 years of hands-on experience building web APIs and scalable backend services with Python, FastAPI, and PostgreSQL. Experienced with containerized deployments in Docker and cloud environments.
+
+Experience:
+Backend Engineer | StackFlow Media | 2022 – Present (2025)
+- Built high-throughput API endpoints with Python, FastAPI, and PostgreSQL for customer data management.
+- Implemented in-memory caching using Redis to accelerate frequent database lookups.
+- Configured Docker containers and integrated automated unit tests within Git CI/CD pipelines.
+- Collaborated with frontend teams to define clean RESTful interface contracts.
+
+Software Engineer | BitCore Systems | 2021 – 2022
+- Developed Python background scripts and data sync workers.
+- Maintained relational databases on PostgreSQL and assisted AWS S3 deployment tasks.
+- Participated in sprint planning, code reviews, and bug triage.
+
+Technical Skills:
+- Languages & Frameworks: Python, FastAPI, SQL, HTML, CSS
+- Databases: PostgreSQL, Redis, SQLite
+- Cloud & Infrastructure: Docker, AWS (S3, EC2), Git, Linux
+- Concepts: REST APIs, Microservices, Relational DBs
+
+Education:
+Bachelor of Science (B.Sc) in Computer Science
+State University, 2017 – 2021

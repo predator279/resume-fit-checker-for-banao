@@ -1,0 +1,25 @@
+Taylor Smith
+Junior Frontend Developer
+Email: taylor.smith@example.com | Portfolio: taylorsmith.design
+
+Summary:
+Enthusiastic Junior Web Developer with 1 year of experience building responsive landing pages and user interfaces using HTML, CSS, JavaScript, and React. Passionate about UI/UX design.
+
+Experience:
+Junior Frontend Developer | PixelCraft Studio | 2024 – 2025
+- Designed and styled interactive web pages using HTML5, CSS3, Tailwind CSS, and React.
+- Built reusable UI components and integrated client-side REST APIs.
+- Assisted graphic designers with Figma mockups and asset optimization.
+
+Web Intern | CreativeAgency | 2023 – 2024
+- Maintained WordPress websites and updated static content.
+- Tested responsive layouts across mobile and desktop browsers.
+
+Technical Skills:
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+- Tools: Figma, Git, VS Code, Photoshop
+- Concepts: Responsive Web Design, UI/UX, DOM Manipulation
+
+Education:
+Diploma in Web Design & Digital Media
+City Community College, 2021 – 2023
