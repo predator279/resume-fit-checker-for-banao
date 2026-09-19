@@ -47,7 +47,7 @@ Given a Job Description (plain text or file) and a Candidate Resume (PDF, DOCX, 
                                  │ Multi-Tier LLM Reasoner      │
                                  │ Tier 1: Groq (gpt-oss-20b)   │
                                  │ Tier 2: Groq (gpt-oss-120b)  │
-                                 │ Tier 3: Gemini 2.0 Flash-Lite│
+                                 │ Tier 3: Gemini 3.1 Flash-Lite│
                                  │ Tier 4: Deterministic Rules  │
                                  └──────────────┬───────────────┘
                                                 │

@@ -6,7 +6,7 @@ Features:
   2. Multi-tier LLM Provider Fallback:
        Tier 1: Groq Cloud (openai/gpt-oss-20b)
        Tier 2: Groq Cloud (openai/gpt-oss-120b)
-       Tier 3: Google Gemini (gemini-2.0-flash-lite)
+       Tier 3: Google Gemini (gemini-3.1-flash-lite)
        Tier 4: Rule-based deterministic fallback strings (zero API dependence)
   3. Robust JSON extraction & schema validation.
   4. Non-blocking error handling: LLM exceptions never fail the scoring response.
@@ -181,10 +181,10 @@ def generate_llm_reasoning(
                     "llm_used": True,
                 }
 
-    # Tier 3: Google Gemini (gemini-2.0-flash-lite)
+    # Tier 3: Google Gemini (gemini-3.1-flash-lite)
     gemini_api_key = os.getenv("GEMINI_API_KEY")
     if gemini_api_key:
-        gemini_model = cfg.get("models", {}).get("gemini_fallback_model", "gemini-2.0-flash-lite")
+        gemini_model = cfg.get("models", {}).get("gemini_fallback_model", "gemini-3.1-flash-lite")
         result = _call_gemini(gemini_api_key, gemini_model, system_prompt, user_prompt, cfg)
         if result:
             return {

@@ -5,7 +5,7 @@
 ---
 
 ### 1. Design Parameter Selection: LLM Model & Reasoning Architecture
-For generating the per-criterion recruiter reasoning, I evaluated three potential model architectures on Groq Cloud and Google AI: `openai/gpt-oss-120b`, `openai/gpt-oss-20b`, and `gemini-2.0-flash-lite`. I selected **`openai/gpt-oss-20b`** (with `temperature=0.0` and fallback to `gemini-2.0-flash-lite`) as the primary inference engine.
+For generating the per-criterion recruiter reasoning, I evaluated three potential model architectures on Groq Cloud and Google AI: `openai/gpt-oss-120b`, `openai/gpt-oss-20b`, and `gemini-3.1-flash-lite`. I selected **`openai/gpt-oss-20b`** (with `temperature=0.0` and fallback to `gemini-3.1-flash-lite`) as the primary inference engine.
 
 **Why this choice?**
 1. **Latency Efficiency:** In benchmark tests generating 5-criterion JSON assessments, `gpt-oss-20b` executed in **684 ms** average latency compared to **2,410 ms** for `gpt-oss-120b`—a **3.5× throughput speedup** that keeps the end-to-end API response under 800 ms.
